@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gen-ai-hackathon-470117",
+  "private_key_id": "41a95c94468a11d32cfeaebf505e6ed2f3075c40",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCorXJ3QcmiQafV\nfRpiuYvjNiZr3EmUTyqSufdATZkWX640mz++QnkpACwza/+ZWj83TROsxK4wwL6q\naAz58NPPM+h3E1CsmxX9GZRTOidN0mM4g0sKWOIZoy2824gjvALPwYd2LYXLz8UU\nulvSZVRBZskYl4wu/r49gUCobB16X1Vn4SH2vyy9ieLn2Eu5eBjDQgEtNl/enyUF\nwtKaqh1qomRu6xM/wQ8j/fiMOjXEKhPKVAL2I0V2Y/AFz7z9Fjvmkcqz7/JS0mhc\ncO/G8rX0p2K2E8u0HJpvxQ+RfIgET5Ti/hn/T0q+vgCqGqcrZk1YZcs0QPDm6wFh\nNCBrFpO7AgMBAAECggEADhgsKTs7N3kn+9v6a/HCzBy2uirhOmjLubtF+z62AjDC\n3uIdbJmjrnbgD/iVa4F8fcj4J2a/LWi1pd865676wToTpyYwhrO7cyIuNYQgS6Lp\np+EPUKaGV2ETYyVZlgQm8f2NraTLz3DQMCq1nc+Ev6WbO8L8s41AD+Xweqz0tkha\noXCDNrWkdkBLGgNEoTfoOJSFlvZJX8MDbmOTXDjyc03oUaY0H8BczJDDoR3+nIxj\nqFsuX3JpzLrMcSLeFmnfnBLQ4ywhIGEuNRRCpA0e22750ZTb9sde+UveqGLKPMw+\nBdbgwJO/AMk4BFlSmiv3A3GeaOJoOObCjbFUqWRGPQKBgQDQYncq0uBUjSyR25dF\nD+cXGMIpAZYCdhxvvWM25fjHkwWL3CtbT/QKaSpHVj2O9oCfLi9LDPRUmZozwe/M\nVGlphks3xXhVQI0dtG5SVmn2ybIfST483/15lcSgIQBEJH5GZWKCwBTYBXcwQ1Qq\nOPC1BvTRmKTMS/3yCx+pynZWFwKBgQDPOEzdiQI/g8w9sAq0uLQKCNVWr9npXJ5T\nw1oEmi4VB6kkiz6qY8KNZql0Pc26r1KKke3BYRAnTzb+PMkn0PNJGlwUco2SN7WT\nije34GnRxV/mQO3zUpcsWf9QxL5OeWTEHNgQGbyJTy/qr6+3XegUfjJE9yys1IE8\n2QDSCGbZ/QKBgCD9JY5i+d6IxuCEWes1/Eh8w+gH9z6GgjPyUG2VdI/rp3ofrcFz\n49duFKJcdbxXK7+HaTdBYsCt3GqLLjIzvshU2T2IBmfAo1ZrhPeF9Jp8DbXEO5UZ\nhKAl5I3RC6C+AjuUu0alr+cO3nKGhiF1CC4wXrt7pcMt2JLjzexsP9WbAoGARXDu\ngUbKlBJMvVdjHxDOdJZlN7mSYtuAyz0py2UHkFCS5AYtp9fqeIwwuR2E9cyO8pTY\ngfdO/H1VRnmER22EObk1pjyFKLy2gozNAzeW/o8QBg84LlQ9CMXYA28K/y07EWVB\nGpQlVDZPLmxVjDNR9JwdqHLUa86CyKtH1RqvrNkCgYAGw0S9HxxSHRA6xUTpt5fn\nPuSzbWi340pcCDBi5U6KrL0CLlPxzSWp3m3mnGiElAv+fhmDwL0V2L2v1Z8Vc9YD\nhqovjy6vWuxhjRlMsaaS32qXW9tX7mvM0130CSb93V3LnHFjwO1JRO+PwJxpo3Lw\n1XXhs3AnTWpLuydfAKhVfw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "nikhil-gen-ai@gen-ai-hackathon-470117.iam.gserviceaccount.com",
+  "client_id": "116936378797005005033",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nikhil-gen-ai%40gen-ai-hackathon-470117.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
